@@ -1,0 +1,2 @@
+Both K FOld Processes doing manually and using sicket learn produced pretty much simialr results as approach was the same which i used 
+my code and the same technique is used in sklearn kfold library so no big difference in both.
